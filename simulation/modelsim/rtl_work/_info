@@ -1,0 +1,205 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/student/cpu /simulation/modelsim
+valu
+IffDMabaC`=Q9?LSXR2eJC1
+VI9:BD]SnNE1DO`TXgmjfh1
+Z1 d/home/student/cpu /simulation/modelsim
+w1527753361
+8/home/student/cpu /alu.v
+F/home/student/cpu /alu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+/home/student/cpu } -O0
+!i10b 1
+!s100 hM5ockW9H?[]MB4V1gnzT2
+!s85 0
+!s108 1527754146.144084
+!s107 /home/student/cpu /alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /alu.v|
+!s101 -O0
+vcount16rle
+I^U7P0nP]a7HVgh9EEB1>k1
+VdnT6Q?i3KhEAU5d55kXP93
+R1
+Z5 w1527077508
+8/home/student/cpu /count16rle.v
+F/home/student/cpu /count16rle.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 FLSZ]iE_B[S`U6UGi@=X41
+!s85 0
+!s108 1527754145.982201
+!s107 /home/student/cpu /count16rle.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /count16rle.v|
+!s101 -O0
+vcpu
+I:bj@2zE8[zQIBbH_fn?>f1
+V=c[l`A_OeH];IbQOYQz_b1
+R1
+w1527754137
+8/home/student/cpu /cpu.v
+F/home/student/cpu /cpu.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 [?GHV`a?LT7fb>DdcZm_63
+!s85 0
+!s108 1527754146.118906
+!s107 /home/student/cpu /cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /cpu.v|
+!s101 -O0
+vcpu_tb
+!i10b 1
+!s100 f79UzbkDfOg;F`D;Q5h;80
+IAKYzI?WAglA]B0K>L7NY21
+V0P>[JOo>6KEkgKO=1CbUG0
+R1
+Z6 w1527077506
+8/home/student/cpu /cpu2_tb.v
+F/home/student/cpu /cpu2_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1527754146.188651
+!s107 /home/student/cpu /cpu2_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /cpu2_tb.v|
+!s101 -O0
+R3
+R4
+vdmem
+Iz^>Jad2VYkWkKQ7T?Iz>H1
+VLIHHaC8a:Io7:Ja3NOR?e1
+R1
+w1527077502
+8/home/student/cpu /dmem.v
+F/home/student/cpu /dmem.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 jAUcbhYFADfz5KOPO98@=1
+!s85 0
+!s108 1527754146.005515
+!s107 /home/student/cpu /dmem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /dmem.v|
+!s101 -O0
+vimem
+IM?Xz6XbQGgi;O^TSK4oiI0
+VWkDk8MNdbR778P;le=<[m2
+R1
+w1527150554
+8/home/student/cpu /imem.v
+F/home/student/cpu /imem.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3L;[>9=2U696V5d=j0SnY3
+!s85 0
+!s108 1527754146.165395
+!s107 /home/student/cpu /imem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /imem.v|
+!s101 -O0
+vmuxreg16
+IoX]5SlM<]8>?jMP35AHE71
+V^EQicNgM>:=@7UR1HC1zN0
+R1
+R5
+8/home/student/cpu /muxreg16.v
+F/home/student/cpu /muxreg16.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 UYF<IfM@Cbj1>KaCc2`nP3
+!s85 0
+!s108 1527754146.096813
+!s107 /home/student/cpu /muxreg16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /muxreg16.v|
+!s101 -O0
+vreg16
+I:H]IKKD_eN?90`9d=@T8P3
+VI7>f8S?U0el^V6D@T5XfX0
+R1
+w1527152158
+8/home/student/cpu /reg16.v
+F/home/student/cpu /reg16.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 :EgZQY@ohjKlABglN]>NC0
+!s85 0
+!s108 1527754146.074818
+!s107 /home/student/cpu /reg16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /reg16.v|
+!s101 -O0
+vregfile
+I@>0<12dE>a?2>nkBTX?1>3
+Vz?m7^21DYOeEQ[jE4SDB91
+R1
+R6
+8/home/student/cpu /regfile.v
+F/home/student/cpu /regfile.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 YjKj^obb>nGKVnkLGZ@7L2
+!s85 0
+!s108 1527754146.051969
+!s107 /home/student/cpu /regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /regfile.v|
+!s101 -O0
+vsm
+IVADGA8e13WWUjYChQIS=<2
+VLZ2>5I7hkb=`RmfbYA>`e2
+R1
+w1527077504
+8/home/student/cpu /sm.v
+F/home/student/cpu /sm.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 [;0NIDTJcN7WIdL5SeB9a0
+!s85 0
+!s108 1527754146.029486
+!s107 /home/student/cpu /sm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/student/cpu |/home/student/cpu /sm.v|
+!s101 -O0
